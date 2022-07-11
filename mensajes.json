@@ -1,0 +1,10 @@
+[{"_id":{"$oid":"62c4815c68dbf84a0f0be56f"},"usermail":"mauricio@rodriguez.com.ar","fecha":{"$date":"2022-07-08T19:39:27.222Z"},"mensaje":"Hola"},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be56g"},"usermail":"violeta@velazquez.com.ar","fecha":{"$date":"2022-07-08T19:39:27.222Z"},"mensaje":"Como estas?"},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be56h"},"usermail":"mauricio@rodriguez.com.ar","fecha":{"$date":"2022-07-08T19:39:27.223Z"},"mensaje":"Hola"},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be56i"},"usermail":"violeta@velazquez.com.ar","fecha":{"$date":"2022-07-08T19:39:27.223Z"},"mensaje":"Bien y vos?"},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be56j"},"usermail":"mauricio@rodriguez.com.ar","fecha":{"$date":"2022-07-08T19:39:27.223Z"},"mensaje":"Bien, y tu familia?"},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be56k"},"usermail":"violeta@velazquez.com.ar","fecha":{"$date":"2022-07-08T19:39:27.223Z"},"mensaje":"Todo tranquilo por suerte, la tuya?"},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be56l"},"usermail":"mauricio@rodriguez.com.ar","fecha":{"$date":"2022-07-08T19:39:27.223Z"},"mensaje":"Todo en orden"},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be56m"},"usermail":"violeta@velazquez.com.ar","fecha":{"$date":"2022-07-08T19:39:27.223Z"},"mensaje":"Bueno, manda saludos"},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be56n"},"usermail":"mauricio@rodriguez.com.ar","fecha":{"$date":"2022-07-08T19:39:27.223Z"},"mensaje":"Chau!"},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be56o"},"usermail":"violeta@velazquez.com.ar","fecha":{"$date":"2022-07-08T19:39:27.223Z"},"mensaje":"Nos vemos"}]

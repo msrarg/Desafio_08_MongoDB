@@ -1,0 +1,8 @@
+[{"_id":{"$oid":"62c4815c68dbf84a0f0be57a"},"nombre":"Vaso","precio":1280,"foto":"https://pics.freeicons.io/uploads/icons/png/11647863221657475818-512.png","stock":100},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be57b"},"nombre":"Colador","precio":1700,"foto":"https://pics.freeicons.io/uploads/icons/png/8266623721657475819-512.png","stock":100},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be57c"},"nombre":"Bolsa de cafe","precio":2300,"foto":"https://pics.freeicons.io/uploads/icons/png/21225258571657475817-512.png","stock":100},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be57d"},"nombre":"Jarra","precio":2860,"foto":"https://pics.freeicons.io/uploads/icons/png/4218157891657475819-512.png","stock":100},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be57e"},"nombre":"Copa","precio":3350,"foto":"https://pics.freeicons.io/uploads/icons/png/6680848941657475819-512.png","stock":100},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be57f"},"nombre":"Portafiltro","precio":4320,"foto":"https://pics.freeicons.io/uploads/icons/png/9177163441657475820-512.png","stock":0},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be57g"},"nombre":"Cafetera","precio":4990,"foto":"https://pics.freeicons.io/uploads/icons/png/20926380481657475819-512.png","stock":0},
+{"_id":{"$oid":"62c4815c68dbf84a0f0be57h"},"nombre":"Cappuccino","precio":4120,"foto":"https://pics.freeicons.io/uploads/icons/png/8936010551657475818-512.png","stock":0}]
